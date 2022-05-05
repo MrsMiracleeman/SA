@@ -1,0 +1,19 @@
+#footer-login{
+    grid-area: footerLogin;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px 5px 0px 0px;
+}
+#footer-login h6{
+    font-weight: bold;
+    opacity: 0.8;
+}
+#footer-login h6 strong{
+    color: red;
+    font-weight: bolder;
+    opacity: 1;
+}

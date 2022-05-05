@@ -1,0 +1,16 @@
+#header-login{
+    grid-area: headerLogin;
+    background-color: #15314B;
+    margin-top: 3px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+#header-login h2{
+    font-weight: 400;
+    font-size: 1.2em;
+    opacity: 0.8;
+}
