@@ -5,7 +5,7 @@ export default props=>{
 
     return(
         <footer id="footer-login">
-            <h6><strong>E</strong>u sou o <strong>F</strong>ooter</h6>
+            <h6><strong>S</strong>oftware desenvolvido por <strong>R</strong>odrigo Cesar</h6>
         </footer>
     )
 }
