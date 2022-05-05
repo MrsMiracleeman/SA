@@ -7,7 +7,7 @@
     height: 100vh;
     display: grid;
     grid-template-columns: 15% 70% 15%;
-    grid-template-rows: 12% 82% 6%;
+    grid-template-rows: 12% 84% 4%;
     grid-template-areas: 
     'headerLogin headerLogin headerLogin'
     'mainLogin mainLogin mainLogin'

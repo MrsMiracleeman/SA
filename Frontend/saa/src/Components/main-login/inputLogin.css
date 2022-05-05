@@ -1,0 +1,20 @@
+#input-login{
+    display: flex;
+    width: 60%;
+    height: 20%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.507);
+}
+#input-login i{
+    width: 20%;
+    background-color: gray;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+#input-login input{
+    width: 90%;
+    outline: none;
+    border: none;
+    padding: 0px 15px;
+}

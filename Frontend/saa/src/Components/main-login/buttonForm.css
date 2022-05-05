@@ -1,0 +1,15 @@
+#button-form{
+    width: 50%;
+    border: none;
+    font-size: 1.2em;
+}
+.on{
+    background-color: orange;
+    color: black;
+    border-radius: 0px 10px 10px 0px;
+}
+.off{
+    color: white;
+    background-color: #335ba5b7;
+    cursor: pointer;
+}

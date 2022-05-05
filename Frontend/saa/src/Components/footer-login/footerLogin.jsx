@@ -7,5 +7,6 @@ export default props=>{
         <footer id="footer-login">
             <h6><strong>S</strong>oftware desenvolvido por <strong>R</strong>odrigo Cesar</h6>
         </footer>
+        
     )
 }
