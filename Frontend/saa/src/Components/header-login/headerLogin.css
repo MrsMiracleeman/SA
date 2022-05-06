@@ -1,7 +1,6 @@
 #header-login{
     grid-area: headerLogin;
     background-color: #15314B;
-    margin-top: 8px;
     color: white;
     display: flex;
     align-items: center;

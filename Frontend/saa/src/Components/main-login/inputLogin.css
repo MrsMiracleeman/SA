@@ -6,8 +6,10 @@
 }
 #input-login i{
     width: 20%;
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.5);
+    background-color: rgba(255, 255, 255, 0.63);
     padding: 5px;
+    border-right: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;

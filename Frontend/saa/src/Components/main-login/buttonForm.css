@@ -1,15 +1,18 @@
 #button-form{
     width: 50%;
-    border: none;
-    font-size: 1.2em;
+    color: black;
 }
 .on{
-    background-color: orange;
-    color: black;
-    border-radius: 0px 10px 10px 0px;
+    background-color: #335ba5e3;
+    border-color: rgba(0, 0, 0, 0.37);
+    border-radius: 2px;
+    font-size: 1.2em;
+    border: none;
+    font-style: unset;
 }
 .off{
-    color: white;
-    background-color: #335ba5b7;
+    color: rgba(255, 255, 255, 0.384);
     cursor: pointer;
+    border: none;
+    font-size: 1.0em;
 }
