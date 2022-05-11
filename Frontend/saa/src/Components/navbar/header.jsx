@@ -1,11 +1,11 @@
 import React from "react";
-import logo from '../../image/logoJ.png'
+import logo from '../../image/pc.png'
 import './headerNav.css'
 
 
 export default props =>{
 
-    if(props.status === true){
+    if(props.status === false){
         return(
             <header className="navheader">
                 <img src={logo} />

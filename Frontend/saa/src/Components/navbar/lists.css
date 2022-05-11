@@ -1,0 +1,66 @@
+.lists{
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px;
+    margin-top: 5px;
+    color: #C4C4C4;
+    cursor: pointer;
+}
+.lists:hover{
+    color: white;
+}
+.lists-on{
+    text-align: center;
+    background-color: #d1d1d15d;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top : 10px;
+}
+.lists-off{
+    display: none;
+}
+.lists-on a{
+    text-decoration: none;
+    padding-top: 2px;
+    color: black;
+}
+.lists-on a:hover{
+    border-bottom: 1px solid yellow;
+}
+.list-box{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.2em;
+}
+.list-box1{
+   justify-content: center;
+   width: 50%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+}
+.list-box2 h6{
+    align-self: center;
+    height: 100%;
+    margin-block: 0px;
+    font-size: 0.8em;
+}
+.list-box22 h6{
+    align-self: center;
+    height: 100%;
+    margin-block: 0px;
+    font-size: 0.8em;
+    display: none;
+}
+.list-box11{
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}

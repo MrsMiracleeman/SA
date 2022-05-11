@@ -1,6 +1,7 @@
 import './infos.css'
 import avatar from '../../image/avatar.png'
 
+
 export default props=>{
 
     return(

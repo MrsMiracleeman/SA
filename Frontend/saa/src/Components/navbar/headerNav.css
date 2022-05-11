@@ -1,7 +1,7 @@
 .navheader{
     height: 12%;
     width: 100%;
-    background-color: #335AA5;
+    background-color: #335AA5 ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -9,5 +9,9 @@
 }
 .navheader img{
     width: 60%;
-    height: 60%;
+    height: 80%;
+}
+.navheader h2{
+    font-size: 1.2rem;
+    color: white;
 }
