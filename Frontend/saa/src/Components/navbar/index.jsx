@@ -13,7 +13,7 @@ export default function Navbar ({status}){
                 <ul id="ul-list">
                     <Lists active={true} status={status} name={"Veículos"} icon={"truck"} />
                     <Lists active={true} status={status} name={"Usuários"} icon={"users"} />
-                    <Lists active={true} status={status} name={"Motoristas"} icon={"car"} />
+                    <Lists active={true} status={status} name={"Motoristas"} icon={"address-card-o"} />
                     <Lists active={false} status={status} name={"Diários"} icon={"book"} />
                     <Lists active={false} status={status} name={"Relatórios"} icon={"database"} />
                 </ul>

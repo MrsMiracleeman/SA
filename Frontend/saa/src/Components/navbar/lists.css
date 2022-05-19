@@ -6,14 +6,17 @@
     margin-top: 5px;
     color: #C4C4C4;
     cursor: pointer;
+    transition: all 200ms ease-in;
+    font-size: 0.9rem;
 }
 .lists:hover{
     color: white;
+    transform: scale(1.001);
 }
 .lists-on{
     text-align: center;
-    background-color: #d1d1d15d;
-    padding: 0px;
+    background-color: #335AA5;
+    padding: 5px;
     margin: 0px;
     position: relative;
     top : 10px;
@@ -23,11 +26,12 @@
 }
 .lists-on a{
     text-decoration: none;
-    padding-top: 2px;
+    padding-top: 5px;
+    margin-bottom: 5px;
     color: black;
 }
 .lists-on a:hover{
-    border-bottom: 1px solid yellow;
+    border-bottom: 2px solid yellow;
 }
 .list-box{
     display: flex;

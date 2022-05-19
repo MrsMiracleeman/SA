@@ -1,7 +1,7 @@
 #form-login{
     background-color: #e5e5e5cb;
     width: 25%;
-    height: 45%;
+    height: 60%;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.726);
     animation-name: slider;
@@ -45,8 +45,8 @@
     border-radius: 5px;
     color: white;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.644);
-    width: 50%;
-    padding: 10px 0px;
+    width: 60%;
+    padding: 5px 0px;
     background-color: #335AA5;
     border: none;
 }

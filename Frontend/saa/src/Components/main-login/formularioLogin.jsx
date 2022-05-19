@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import ButtonForm from "./buttonForm";
 import './formularioLogin.css'
 import InputLogin from "./inputLogin";
@@ -20,7 +21,7 @@ export default props=>{
                 </section>
                 <footer>
                     <input type="submit" name="login"  value="Login"/>
-                    <a href="/">Esqueceu a sua senha ?</a>
+                    <Link to="/gerente">Esqueceu a sua senha ? </Link>
                 </footer>
             </div>
         </form>
